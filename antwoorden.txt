@@ -1,10 +1,14 @@
 ANTWOORDEN TOETS GIT &amp; GITHUB
 Naam: jouw voornaam en achternaam
 OPDRACHT 3
-1.
-2.
-3.
-4.
+1. Commando: git log
+    Antwoord: 548eb6f
+2. Commando: git log -n 1 --oneline -- index.html
+    Antwoord: 479e34e Homepage naar versie 2
+3. Commando: git log -S "<p>Versie 2</p>" --oneline
+    Antwoord: 479e34e
+4. Commando: git log => commit terugvinden en hash gebruiken in : git show...
+    Antwoord: 548eb6f27286c2247827857f8e86b8e625b7aaab
 OPDRACHT 7
 a.
 b.
